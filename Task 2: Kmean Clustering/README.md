@@ -4,7 +4,7 @@
   
 - The dataset used for this task can be found: (https://bit.ly/3kXTdox).
 - The Iris dataset includes four features:
-  sepal length
+  * sepal length
   sepal width
   petal length
   petal width
