@@ -9,7 +9,7 @@
   * petal length
   * petal width
      
-- The target variable is the "Species" column, which categorizes into
+- The target variable is the "Species" column, which categorizes into:
   - Iris Setosa
   - Iris Versicolor
   - Iris Virginica
